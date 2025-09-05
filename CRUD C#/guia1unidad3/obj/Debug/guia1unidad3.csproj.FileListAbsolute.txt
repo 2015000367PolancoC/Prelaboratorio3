@@ -1,0 +1,11 @@
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\bin\Debug\guia1unidad3.exe.config
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\bin\Debug\guia1unidad3.exe
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\bin\Debug\guia1unidad3.pdb
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.Form1.resources
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.Properties.Resources.resources
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.exe
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.pdb
+C:\Users\sebas\Downloads\guia1unidad3-master\guia1unidad3-master\guia1unidad3\obj\Debug\guia1unidad3.exe.config
